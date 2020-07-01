@@ -1,0 +1,4 @@
+train-images-idx3-ubyte.gz # training set images
+train-labels-idx1-ubyte.gz # training set labels
+t10k-images-idx3-ubyte.gz # test set images
+t10k-labels-idx1-ubyte.gz # test set labels
